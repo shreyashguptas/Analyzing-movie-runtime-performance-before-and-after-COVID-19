@@ -1,4 +1,4 @@
-# **Analyzing Movie Genre Performance <font color='Red'>Before and After <font color='Green'>COVID-19🦠</font></font>**
+# **Analyzing movie runtime performance<font color='Red'>before and after COVID-19🦠</font></font>**
 
 # Creating dataset for movies before and after covid 🦠
 
