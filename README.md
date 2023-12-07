@@ -1,3 +1,4 @@
-# Analyzing_Movie_Genre_Performance_Before_and_After_COVID-19
+# **Analyzing Movie Genre Performance <font color='Red'>Before and After <font color='Green'>COVID-19🦠</font></font>**
 
-(Work in progress)
+# Creating dataset for movies before and after covid 🦠
+
