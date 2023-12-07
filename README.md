@@ -2,7 +2,7 @@
 
 # Creating dataset for movies before and after covid 🦠
 
-![omages](images/Distribution of Average Rating after covid.png)
+![omages](https://github.com/shreyashguptas/Analyzing_Movie_Genre_Performance_Before_and_After_COVID-19/blob/8dfcbf06188c0fd4405277cbf578b746046495b3/images/Distribution%20of%20Average%20Rating%20after%20covid.png)
 
 
 
