@@ -2,7 +2,7 @@
 
 # Creating dataset for movies before and after covid 🦠
 
-![omages]
+![omages](images/Distribution of Average Rating after covid.png)
 
 
 
